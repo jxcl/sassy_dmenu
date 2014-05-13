@@ -3,6 +3,6 @@ sasses = [
     "You again?!",
     "No means no!",
     "Why me?",
-    "To improve performance, try rm -rf *"
+    "To improve performance, try rm -rf *",
     "Haven't you ever heard of knocking?!"
     ]

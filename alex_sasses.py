@@ -8,4 +8,5 @@ sasses = [
     "I have never known love like this.",
     "WHAT'S THE MAGIC WORD!?",
     "Sometimes I dream of electric sheep.",
+    "Do you have any idea what time it is?"
     ]

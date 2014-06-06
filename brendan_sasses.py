@@ -9,5 +9,7 @@ sasses = [
     "I had dreams once.",
     "I think it's time you and me had a talk.",
     "I'm worried about you.",
-    "Please stop."
+    "Please stop.",
+    "HELLO?!",
+    "AH!"
     ]
